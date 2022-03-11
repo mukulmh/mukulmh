@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehedy Hassan Mukul.
 - 👀 I’m interested in web and apps development.
-- 🌱 I’m currently learning tailwindcss.
+- 🌱 I’m currently learning flask.
 - 📫 You can reach me on Facebook https://facebook.com/followme.mh
 
 <!---
