@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehedy Hassan Mukul.
 - 👀 I’m interested in web development. I have knowledge in HTML, CSS, Laravel, Flask, MySql, Git, etc.
-- 🌱 I’m currently learning PHP Laravel framework and Javascript.
+- 🌱 I’m currently learning Django framework.
 - 📫 You can reach me on Facebook https://facebook.com/followme.mh
 
 <!---
